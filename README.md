@@ -7,8 +7,8 @@
 
 ## Create page
 
-![Main page](/create-page.png)
+![Create page](/create-page.png)
 
 ## Delete page
 
-![Main page](/delete-page.png)
+![Delete page](/delete-page.png)
